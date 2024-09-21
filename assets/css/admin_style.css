@@ -1,0 +1,9 @@
+.nowrap {
+	white-space: nowrap;
+}
+.material-icons {
+	text-align: center;
+}
+#crudForm input.form-control {
+	height: auto;
+}
